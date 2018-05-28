@@ -4,4 +4,5 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-    1a.c
+    1b.c \
+    1c.c
