@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    kadai5
+    kadai5 \
+    kadai3
