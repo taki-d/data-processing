@@ -11,4 +11,6 @@ SUBDIRS += \
     kadai12 \
     kadai7 \
     kadai8 \
-    kadai9
+    kadai9 \
+    final-exam \
+    kadai13
